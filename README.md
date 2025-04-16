@@ -4,7 +4,7 @@
 Analyze monthly revenue and order volume using SQL (MySQL) and pandas.
 
 # Dataset
-- Source: `online_retail_II.csv`
+- Source: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 - Columns used: `InvoiceDate`, `Quantity`, `Price`, `Invoice`
 
 # Methodology
